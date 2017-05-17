@@ -18,6 +18,10 @@
 .mb-5{
   margin-bottom: 5%;
 }
+
+.mb-10{
+  margin-bottom: 10%;
+}
 /*Estilos tabla*/
 .bordes{
   border: 1px solid #dddddd;
