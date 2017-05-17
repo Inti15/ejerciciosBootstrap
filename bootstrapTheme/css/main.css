@@ -16,14 +16,17 @@ p{
 
 
 /*Margenes*/
-/*.margen{
+.margen{
   margin: 7%;
 }
 
-.mt-5{
-  margin-top: 5%;
+.mt-3{
+  margin-top: 3%;
 }
+/*.mt{
+  margin-top: 5%;
+}*/
 
 .mb-5{
   margin-bottom: 5%;
-}*/
+}
