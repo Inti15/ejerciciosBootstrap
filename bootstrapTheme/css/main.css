@@ -23,10 +23,32 @@ p{
 .mt-3{
   margin-top: 3%;
 }
-/*.mt{
+.mt-5{
   margin-top: 5%;
-}*/
+}
+
+.mt-7{
+  margin-top: 7%;
+}
 
 .mb-5{
   margin-bottom: 5%;
+}
+/*Estilos tabla*/
+.bordes{
+  border: 1px solid #dddddd;
+}
+
+.borde{
+  border-right: 1px;
+  border-style: solid;
+  border-color: #dddddd;
+}
+
+ .fondo{
+  background-color: #dddddd;
+}
+/*Labels*/
+.inline{
+  display: inline-block;
 }
